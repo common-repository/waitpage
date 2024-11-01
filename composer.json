@@ -1,0 +1,7 @@
+{
+    "require": {
+        "firebase/php-jwt": "^5.0",
+        "guzzlehttp/guzzle": "^6.4",
+        "jaybizzle/crawler-detect": "^1.2"
+    }
+}
